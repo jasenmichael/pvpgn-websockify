@@ -12,7 +12,7 @@
   "dependencies": {
     "@maximegris/node-websockify": "^1.0.7",
     "dotenv": "^8.2.0",
-    "i": "^0.3.6",
+    "i": "^0.3.7",
     "npm": "^6.14.4"
   }
 }
